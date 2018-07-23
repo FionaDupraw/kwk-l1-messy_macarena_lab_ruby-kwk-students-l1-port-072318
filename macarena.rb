@@ -32,3 +32,4 @@ def macarena
   puts "Step 9: Right arm, left hip"
   puts "Step 10:left arm, right hip"
   puts "AYYYYYYYYYY macarena (Turn)"
+end
